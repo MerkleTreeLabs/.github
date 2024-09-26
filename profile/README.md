@@ -1,5 +1,3 @@
-# Merkle Tree Labs
-
 Dedicated to building secure, forward-thinking systems that are ready to face tomorrow’s challenges. With a commitment to open-source development and a focus on crypto-agile solutions, we’re ensuring that the systems of today can withstand the threats of tomorrow.
 
 ## About Us
